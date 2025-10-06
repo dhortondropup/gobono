@@ -1,13 +1,8 @@
-# Ignore everything by default
-*
-*/
+# Development files
+src/
+CLAUDE.md
+.claude/
 
-# Allow these folders and their contents
-!images/
-!images/**
-!fonts/
-!fonts/**
-
-# Allow these files
-!.gitignore
-!README.md
+# OS
+.DS_Store
+Thumbs.db
