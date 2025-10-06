@@ -1,0 +1,13 @@
+# Ignore everything by default
+*
+*/
+
+# Allow these folders and their contents
+!images/
+!images/**
+!fonts/
+!fonts/**
+
+# Allow these files
+!.gitignore
+!README.md
